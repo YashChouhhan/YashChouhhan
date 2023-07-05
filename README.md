@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-myself yash and im self learned programmer 
+Myself yash and I'm self-taught programmer 
 
 <!--
 **YashChouhhan/YashChouhhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
