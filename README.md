@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-My-self Yash Chouhan and I'm a self-taught programmer 
+<!-- My-self Yash Chouhan and I'm a self-taught programmer 
 
 Here are some ideas to get you started:
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 <br />
-
 I'm a self-taught passionate Programmer/developer from India 🇮🇳
 
 **About me**
