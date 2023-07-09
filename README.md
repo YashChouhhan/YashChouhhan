@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></p>
-
 <br />
 
 I'm a self-taught passionate Programmer/developer from India 🇮🇳
@@ -30,16 +28,3 @@ I'm a self-taught passionate Programmer/developer from India 🇮🇳
 
 | <a href="https://github.com/YashChouhhan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YashChouhhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yash's github stats" /></a> | <a href="https://github.com/YashChouhhan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/YashChouhhan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YashChouhhan&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/YashChouhhan/YashChouhhan.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YashChouhhan&repo=YashChouhhan.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
