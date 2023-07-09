@@ -2,11 +2,8 @@
 
 My-self Yash Chouhan and I'm a self-taught programmer 
 
-<!--
-**YashChouhhan/YashChouhhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +12,34 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></p>
+
+<br />
+
+I'm a self-taught passionate Programmer/developer from India 🇮🇳
+
+**About me**
+
+- ❤️ I love writing JavaScript and building fun experiments.
+
+- 💬 Ask me about anything [here]([https://github.com/anuraghazra/anuraghazra/issues](https://www.instagram.com/yashchouhhan/))
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+| <a href="https://github.com/YashChouhhan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YashChouhhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yash's github stats" /></a> | <a href="https://github.com/YashChouhhan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/YashChouhhan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YashChouhhan&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/YashChouhhan/YashChouhhan.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YashChouhhan&repo=YashChouhhan.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
