@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-<br />
+
 I'm a self-taught passionate Programmer/developer from India 🇮🇳
 
 **About me**
