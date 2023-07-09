@@ -19,7 +19,7 @@ I'm a self-taught passionate Programmer/developer from India 🇮🇳
 
 - ❤️ I love writing JavaScript and building fun experiments.
 
-- 💬 Ask me about anything [here]([https://github.com/anuraghazra/anuraghazra/issues](https://www.instagram.com/yashchouhhan/))
+- 💬 Ask me about anything [here](https://www.instagram.com/yashchouhhan/))
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
