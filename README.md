@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!-- My-self Yash Chouhan and I'm a self-taught programmer 
 
 Here are some ideas to get you started:
