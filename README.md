@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-I'm a self-taught passionate Programmer/developer from India 🇮🇳
+I'm a self-taught passionate Programmer from India 🇮🇳
 
 **About me**
 
 - 😄 I have Skills in JavaScript, React, WordPress, Shopify 
 - ❤️ I love writing JavaScript and building fun experiments.
-- ⚡ Currently learning Ract.js
+- ⚡ Currently learning MERN 
 
 - 💬 Ask me about anything [here](https://www.instagram.com/yashchouhhan/)
 
