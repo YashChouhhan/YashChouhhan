@@ -16,7 +16,7 @@ I'm a self-taught passionate Programmer/developer from India 🇮🇳
 
 **About me**
 
-- 😄 I have Skills in HTML, CSS, JS, React, WordPress 
+- 😄 I have Skills in JavaScript, React, WordPress, Shopify 
 - ❤️ I love writing JavaScript and building fun experiments.
 - ⚡ Currently learning Ract.js
 
